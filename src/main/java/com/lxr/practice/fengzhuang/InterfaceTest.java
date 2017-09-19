@@ -24,6 +24,7 @@ public class InterfaceTest {
         x.get();
         x.print();
 
+
     }
 }
 
